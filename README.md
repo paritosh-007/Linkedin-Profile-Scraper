@@ -43,6 +43,8 @@ At the end, it will display the dataframe to be inserted in the local csv file.
 Further, it will ask whether the runner wants to save this dataframe to the specified Google Sheet.
 Upon entering the character `Y` (case-insensitive) , it will add the data in the sheet as well and will close the browser.
 
+[G-sheet](https://docs.google.com/spreadsheets/d/1a63m3d2mPAzi922LDsOjpcAIDj9Z6Ln4vkKKx0DaEpI/edit?usp=sharing)
+
 ![image](https://github.com/paritosh-007/Linkedin-Profile-Scraper/assets/24694205/746fac8e-c33b-4a52-87cd-6454221e4dd1)
 
 
