@@ -22,7 +22,7 @@ Sign In Page will be filled in with the details from credentials file.
 ![image](https://github.com/paritosh-007/Linkedin-Profile-Scraper/assets/24694205/a1ebb783-d240-4a8c-b2cd-88112ff1b954)
 
 
-
+### Security Check
 There might be cases when we have to navigate through **Security Verification** Page.
 
 ![image](https://github.com/paritosh-007/Linkedin-Profile-Scraper/assets/24694205/49ebf9d4-f467-4305-b41a-183111db4046)
@@ -31,11 +31,14 @@ Solve the PUZZLE to move forward in the flow.
 
 ![image](https://github.com/paritosh-007/Linkedin-Profile-Scraper/assets/24694205/339976b5-8f59-46e6-a840-422a21b6954a)
 
+### Enter First Name and Last Name
+
 The script will keep on displaying the details of the user in the iteration.
 
 
 ![image](https://github.com/paritosh-007/Linkedin-Profile-Scraper/assets/24694205/958591f6-ddf3-4bcb-b3af-3b58a4b30423)
 
+### Saving data
 At the end, it will display the dataframe to be inserted in the local csv file.
 Further, it will ask whether the runner wants to save this dataframe to the specified Google Sheet.
 Upon entering the character `Y` (case-insensitive) , it will add the data in the sheet as well and will close the browser.
